@@ -1,7 +1,6 @@
 focaltech_touch.ko
 dw9800v.ko
 spmi-mtk-mpu.ko
-mtk_et.ko
 gz_trusty_mod.ko
 gz_ipc_mod.ko
 gz_irq_mod.ko
@@ -162,9 +161,7 @@ pda_drv_mt6886.ko
 emi-mpu-hook-v1.ko
 apu_top.ko
 apusys.ko
-atf_logger.ko
 cpudvfs.ko
-bus-parity.ko
 fhctl.ko
 clk-disable-unused.ko
 mtk-pm-domain-disable-unused.ko

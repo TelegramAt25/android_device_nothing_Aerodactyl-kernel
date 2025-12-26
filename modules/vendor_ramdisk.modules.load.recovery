@@ -1,14 +1,6 @@
-bootprof.ko
-mrdump.ko
-aee_aed.ko
-aee_hangdet.ko
-monitor_hang.ko
 mkp.ko
-dbgtop-drm.ko
-irq-dbg.ko
 mtk_sync.ko
 mtk_disp_notify.ko
-mtk_printk_ctrl.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -63,7 +55,6 @@ iommu_debug.ko
 iommu_secure.ko
 mtk_iommu.ko
 system_heap.ko
-mtk_et.ko
 mtk-cmdq-drv-ext.ko
 cmdq-platform-mt6886.ko
 cmdq_helper_inf.ko
@@ -76,7 +67,6 @@ panel-vnx-rm692h5-cmd.ko
 panel-boe-rm692h5-cmd.ko
 panel-boe-raydium-rm692h5-cmd.ko
 mediatek-drm.ko
-aee_rs.ko
 mmprofile.ko
 mtk-uart-apdma.ko
 uarthub_drv.ko
@@ -108,7 +98,6 @@ rpmb.ko
 rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
-blocktag.ko
 pidmap.ko
 mtk-pmic-keys.ko
 mtk-kpd.ko
@@ -155,7 +144,6 @@ tcpci_late_sync.ko
 usb_meta.ko
 mtk-mbox-mailbox.ko
 tinysys-scmi.ko
-mtk-mminfra-debug.ko
 mtk-mminfra-imax.ko
 reboot-mode.ko
 syscon-reboot-mode.ko
@@ -178,7 +166,6 @@ emi-mpu-v2.ko
 emi-slb.ko
 emi-mpu-hook-v1.ko
 mtk-socinfo.ko
-bus-parity.ko
 cache-parity.ko
 clk-disable-unused.ko
 mtk-pm-domain-disable-unused.ko
